@@ -1,0 +1,291 @@
+,Feature Importance
+votes,0.2394663
+average_cost_for_two,0.103230335
+longitude,0.08602528
+latitude,0.07373595
+cuisine_count,0.024227528
+Lebanese,0.016853932
+ward_num,0.016502809
+ward_area,0.016502809
+Fast Food,0.014044944
+Cuban,0.014044944
+Indian,0.012640449
+ward_pop,0.012640449
+places_Old Biscuit Mill,0.011587079
+Burger,0.011235955
+locality_V & A Waterfront,0.010884832
+locality_Simon's Town,0.010533708
+Sushi,0.009831461
+place_type_Hotel,0.009480337
+Steak,0.009480337
+Thai,0.009129213
+locality_Rondebosch,0.009129213
+region_Northern Suburbs,0.00877809
+place_type_Mall,0.00877809
+Healthy Food,0.008426966
+Finger Food,0.008426966
+places_The Table Bay Hotel,0.008075843
+International,0.008075843
+places_N1 City Mall,0.0073735956
+Pizza,0.0073735956
+locality_Cape Town International Airport,0.007022472
+places_Bayside on Fish Hoek Beach,0.006671348
+places_Eikestad Mall,0.006671348
+Bakery,0.0063202246
+Patisserie,0.005969101
+Italian,0.005969101
+locality_Wynberg,0.005969101
+Desserts,0.0056179776
+locality_Kuils River,0.005266854
+locality_Constantia,0.005266854
+locality_Observatory,0.005266854
+locality_De Waterkant,0.005266854
+locality_Sunningdale,0.0049157306
+locality_Bellville,0.0049157306
+Beverages,0.0049157306
+Cafe,0.004213483
+places_Canal Walk Mall,0.0038623596
+French,0.0038623596
+American,0.0038623596
+locality_Parklands,0.0038623596
+Asian,0.003511236
+places_Graanendal Shopping Center,0.003511236
+places_None,0.003511236
+Contemporary,0.003511236
+place_type_Wine,0.0031601123
+Tapas,0.0031601123
+places_V & A Foodmarket,0.0031601123
+locality_CBD,0.0031601123
+locality_Brackenfell,0.0031601123
+Deli,0.0028089888
+locality_Table View,0.0028089888
+Grill,0.0028089888
+locality_Rylands,0.0028089888
+places_Willowbridge Lifestyle Centre,0.0028089888
+Durban,0.0028089888
+South African,0.0024578653
+region_Cape Flats,0.0024578653
+locality_Plattekloof,0.0024578653
+places_Flamingo Square Centre,0.0024578653
+locality_Sea Point,0.0021067415
+British,0.0021067415
+locality_Tokai,0.0021067415
+European,0.0021067415
+locality_Maitland,0.0021067415
+locality_Green Point,0.001755618
+Middle Eastern,0.001755618
+places_The Silo Hotel,0.001755618
+locality_Gardens,0.001755618
+places_Somerset Mall,0.001755618
+places_Paddock Shopping Centre,0.001755618
+places_One and Only Hotel,0.001755618
+has_table_booking,0.0014044944
+locality_Fish Hoek,0.0014044944
+places_Victoria Wharf,0.0014044944
+Mediterranean,0.0014044944
+Japanese,0.0014044944
+Frozen Yogurt,0.0014044944
+places_Westcoast Village,0.0010533708
+locality_Montague Gardens,0.0010533708
+locality_Century City,0.0010533708
+locality_Durbanville,0.0010533708
+region_Winelands,0.0010533708
+Seafood,0.0010533708
+Spanish,0.0010533708
+Drinks Only,0.0010533708
+places_Cavendish Square,0.0007022472
+Mexican,0.0007022472
+locality_Bloubergstrand,0.0007022472
+places_Lakeside Center,0.0007022472
+locality_Foreshore,0.0007022472
+locality_Claremont,0.0007022472
+locality_Plumstead,0.0007022472
+Fish and Chips,0.0007022472
+places_Blue Route Mall,0.0007022472
+Turkish,0.0007022472
+places_Pearl Mountain Wine Estate,0.0007022472
+Arabian,0.0003511236
+Cape Malay,0.0003511236
+region_Atlantic Seaboard,0.0003511236
+locality_Milnerton,0.0003511236
+Irish,0.0003511236
+places_Tygervalley Shopping Centre,0.0003511236
+places_Taj Cape Town,0.0003511236
+places_St Peters Square,0.0003511236
+region_City Bowl,0.0003511236
+Greek,0.0003511236
+places_Kromboom Garden Center,0.0003511236
+locality_Gordons Bay,0.0
+locality_Crawford,0.0
+Ice Cream,0.0
+German,0.0
+locality_Hermanus,0.0
+locality_Diep River,0.0
+locality_Hanover Park,0.0
+locality_Franschhoek,0.0
+locality_Goodwood,0.0
+Fusion,0.0
+Latin American,0.0
+Juices,0.0
+Korean,0.0
+places_Wembley Square,0.0
+Salad,0.0
+Pub Food,0.0
+places_Yard,0.0
+places_Zevenwacht Mall,0.0
+place_type_Apartments,0.0
+place_type_Beach,0.0
+place_type_Business,0.0
+place_type_Casino,0.0
+place_type_Community,0.0
+Portuguese,0.0
+Pakistani,0.0
+place_type_None,0.0
+Moroccan,0.0
+locality_Athlone,0.0
+Modern European,0.0
+locality_Bergvliet,0.0
+locality_Kalk Bay,0.0
+locality_Camps Bay,0.0
+locality_Hout Bay,0.0
+Egyptian,0.0
+locality_Kenilworth,0.0
+Brazilian,0.0
+locality_Stellenbosch,0.0
+locality_Strand,0.0
+Belgian,0.0
+Bar Food,0.0
+locality_Tamboerskloof,0.0
+BBQ,0.0
+locality_Vredehoek,0.0
+locality_Wellington,0.0
+locality_Woodstock,0.0
+locality_Worcester,0.0
+African,0.0
+locality_Zonnebloem,0.0
+has_online_delivery,0.0
+region_Helderberg,0.0
+price_range,0.0
+region_Overberg,0.0
+region_South Peninsula,0.0
+region_Southern Suburbs,0.0
+region_West Coast,0.0
+locality_Somerset West,0.0
+Cafe Food,0.0
+locality_Kraaifontein,0.0
+locality_Scarborough,0.0
+Ethiopian,0.0
+locality_Lakeside,0.0
+places_Vredenheim Wine Estate,0.0
+locality_Melkbosstrand,0.0
+locality_Mouille Point,0.0
+locality_Mowbray,0.0
+locality_Muizenberg,0.0
+locality_Newlands,0.0
+locality_Noordhoek,0.0
+Continental,0.0
+locality_Ottery,0.0
+locality_Paarl,0.0
+Coffee and Tea,0.0
+locality_Parow,0.0
+locality_Pinelands,0.0
+Chinese,0.0
+locality_Riebeek Kasteel,0.0
+locality_Robertson,0.0
+Caribbean,0.0
+places_Waterstone Village,0.0
+places_Babylonstoren Wine Estate,0.0
+places_Vineyard Hotel & Spa,0.0
+places_Horizon Bay,0.0
+places_Gatesville Center,0.0
+places_Glenelly Estate,0.0
+places_Glengarry Shopping Center,0.0
+places_Alphen 5 Star Boutique Hotel,0.0
+places_Grandwest Casino,0.0
+places_Groot Constantia Wine Estate,0.0
+places_Harfield Village,0.0
+places_Hidden Valley Wine Estate,0.0
+places_Hilton Cape Town,0.0
+places_Hotel Cape Grace,0.0
+places_Anura,0.0
+places_Jordan Wine Farm,0.0
+places_Kenilworth Center,0.0
+places_L'Ormarins Wine Estate,0.0
+places_Lagoon Beach Hotel,0.0
+places_Lanzerac Wine Estate,0.0
+places_Longridge Wine Estate,0.0
+places_Mainstream Shopping Centre,0.0
+places_Mount Nelson Hotel,0.0
+places_African Pride 15 on Orange Hotel,0.0
+places_Fountain Square,0.0
+places_Fairbridge Mall,0.0
+places_Village Square,0.0
+places_Chapmans Peak Beach Hotel,0.0
+places_Avondale Wines,0.0
+places_Beau Constantia Wine Estate,0.0
+places_Beyerskloof Wine Estate,0.0
+places_Bloemendal Wine Farm,0.0
+places_Boschendal Estate,0.0
+places_Ashley Cooper House,0.0
+places_Cape Quarter Lifestyle Center,0.0
+places_Capegate Shopping Center,0.0
+places_Centre Court,0.0
+places_Cobble Walk Center,0.0
+places_Erinvale Estate Hotel & Spa,0.0
+places_Colosseum Building,0.0
+places_Constantia Village,0.0
+places_De Wet Square,0.0
+places_Dean Street Arcade,0.0
+places_Delaire Graff  Estate,0.0
+places_Double Tree by Hilton,0.0
+places_Dunkley Square,0.0
+places_Eden On The Bay Centre,0.0
+places_Asara Wine Estate,0.0
+places_NH The Lord Charles Hotel,0.0
+places_Nederburg Wines,0.0
+places_Nitida Wine Farm,0.0
+places_The Sanctuary Shopping Centre,0.0
+places_Steenberg Hotel,0.0
+places_Steenberg Village,0.0
+places_Surfers Corner,0.0
+places_The Bay Hotel,0.0
+places_The Cellars-Hohenhort,0.0
+places_The Cullinan,0.0
+places_The Devon Valley Hotel,0.0
+places_The Marine Hotel,0.0
+places_The Promenade,0.0
+Street Food,0.0
+places_12 Apostles Hotel & Spa,0.0
+places_The Village Lodge,0.0
+places_The Westin,0.0
+places_Tokara Wine Estate,0.0
+places_Two Oceans Beach,0.0
+places_Tyger Manor,0.0
+places_Bayside Mall,0.0
+places_Vangate Mall,0.0
+places_Vergelegen,0.0
+Sandwich,0.0
+places_Spier Wine Estate,0.0
+places_Spice Route Farm,0.0
+places_Southern Sun Newlands,0.0
+Tea,0.0
+Vietnamese,0.0
+Vegetarian,0.0
+Tex-Mex,0.0
+places_Palm Grove Center,0.0
+places_Parklands Center,0.0
+places_Parklands Junction,0.0
+places_Parow Centre,0.0
+places_Piazza Da Luz,0.0
+places_Plattekloof Center,0.0
+places_Plattekloof Village,0.0
+places_Portico Building,0.0
+places_Portside Building,0.0
+places_Radisson Blu Hotel & Residence,0.0
+places_Radisson Blu Le Vendome Hotel,0.0
+places_Rawoot Square,0.0
+places_Ridgeback Wine Farm,0.0
+places_Riverside Mall,0.0
+places_Sandown Retail Crossing Center,0.0
+places_Seaside Village,0.0
+places_Okavango Crossing Shopping Centre,0.0
